@@ -1,3 +1,5 @@
+# :rotating_light: This project is still here for reference, but the concept is being now maintained in [keptn-docker-tasks](https://github.com/dt-demos/keptn-docker-tasks) repo :rotating_light:
+
 # Overview
 
 Dockerized script that will perform the logic to perform a [Keptn Onboard Project](https://keptn.sh/docs/0.7.x/manage/project/) and the adding the SLO and SLI files to support [Keptn Quality Gates](https://keptn.sh/docs/0.7.x/quality_gates/)
